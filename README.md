@@ -1,4 +1,4 @@
 # git-react
 my new and frist react
 <br>
-Author - Tanveer Hussain 
+Author - Tanveer Hussain (technity solution)
